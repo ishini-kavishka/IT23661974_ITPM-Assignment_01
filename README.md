@@ -9,13 +9,21 @@ This project evaluates how accurately SwiftTranslator converts Singlish into Sin
 
 IT3040_Assignment1/
 ├─ README.md
+
 ├─ package.json
+
 ├─ playwright.config.ts
+
 ├─ tests/
+
 │  ├─ pos_functional.spec.ts
+
 │  ├─ neg_functional.spec.ts
+
 │  └─ pos_ui.spec.ts
+
 ├─ test_cases.xlsx
+
 └─ README_assets/  (optional screenshots or supporting files)
 
 ## Technologies Used
@@ -24,7 +32,7 @@ IT3040_Assignment1/
    playwright Test
 
    JavaScript / TypeScript
-   
+
    Git & GitHub
 
 ⚡ References
