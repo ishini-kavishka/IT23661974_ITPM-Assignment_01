@@ -20,8 +20,11 @@ IT3040_Assignment1/
 
 ## Technologies Used
    node.js
+
    playwright Test
+
    JavaScript / TypeScript
+   
    Git & GitHub
 
 ⚡ References
